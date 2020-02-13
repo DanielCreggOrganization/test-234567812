@@ -14,7 +14,7 @@ public class Switch {
 
         monthNumber = in.nextInt();
 
-        userInput.close(); // to protect input from hacking (and remove the orange warning bit)
+        in.close(); // to protect input from hacking (and remove the orange warning bit)
 
         switch (monthNumber) {
 

@@ -1,32 +1,46 @@
 {
    "configurations": [
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - Switch",
-         "request": "launch",
-         "mainClass": "ie.gmit.scannerpack.Switch",
-         "projectName": "test-234567812_6a8c324"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - ScanFlow",
-         "request": "launch",
-         "mainClass": "ie.gmit.scannerpack.ScanFlow",
-         "projectName": "test-234567812_6a8c324"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - MyClass",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek2.MyClass",
-         "projectName": "test-234567812_6a8c324"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - HelloWorld",
-         "request": "launch",
-         "mainClass": "ie.gmit.packagename.HelloWorld",
-         "projectName": "test-234567812_6a8c324"
-      }
-   ]
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Main",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek2.Main",
+        "projectName": "test-234567812_6a8c324"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Main",
+        "request": "launch",
+        "mainClass": "ie.gmit.myclass.Main",
+        "projectName": "test-234567812_6a8c324"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Switch",
+        "request": "launch",
+        "mainClass": "ie.gmit.scannerpack.Switch",
+        "projectName": "test-234567812_6a8c324"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - ScanFlow",
+        "request": "launch",
+        "mainClass": "ie.gmit.scannerpack.ScanFlow",
+        "projectName": "test-234567812_6a8c324"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - MyClass",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek2.MyClass",
+        "projectName": "test-234567812_6a8c324"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - HelloWorld",
+        "request": "launch",
+        "mainClass": "ie.gmit.packagename.HelloWorld",
+        "projectName": "test-234567812_6a8c324"
+    }
+]
 }
